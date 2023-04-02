@@ -1,0 +1,7 @@
+Steps:
+
+1. Convert PDF to text file (pdftotxt.py)
+	1.1 Clean up the data (clean.py)
+2. Preprocess and tokenize (tokenizetxt.py)
+3. Prepare custom dataset for training (prepdataset.py)
+4. Training (train.py)
